@@ -34,12 +34,15 @@ Also this project has a simple visualizer. **(macOS is only supported)**
 
 ![visualizer](/images/visualizer.png)
 
-### How to clone?
+### Contact
+---
+Feel free to clone this project, check the code or contact me if you want or find something wrong or missing in this documentation.
 
-This repository includes submodule. So if you want to clone it, you can use the following command:
+* 42 Login:	*zrdouane*
+* Email:		*zrdouane@student.1337.ma*
 
-```
-git clone --recurse-submodules <repository url>
-```
+*[![zrdouane's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2542118)](https://github.com/JaeSeoKim/badge42)
 
-If you will use `git clone <repository url>` instead of, you will get the empty `libft` folder.
+Good luck with your projects!
+
+

@@ -4,7 +4,7 @@ Push_swap is a School 42 project. The purpose of this project is to create sorti
 
 [`push_swap.en.pdf`](/push_swap.en.pdf) is the task file.
 
-You can check [wiki-page](../../wiki/Algorithm) if you want to read description of created algorithm.
+You can check [wiki-page](https://github.com/zrdouane/Push_swap/wiki) if you want to read description of created algorithm.
 
 ### Benchmarks
 
